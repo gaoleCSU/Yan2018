@@ -137,7 +137,7 @@ public class RouterManager {
         startWithFlag(builder.buildUri(), flags);
     }
 
-    public BaseFragment getFragment(String path){
+    public BaseFragment getFragment(String path) {
         return (BaseFragment) ARouter.getInstance().build(path).navigation();
     }
 }
