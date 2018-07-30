@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="background">@color/cW1</color>
+    <color name="actionbar_color">@color/cW1</color>
+
+    <!-- 通用色值 -->
+    <color name="cW1">#ffffff</color>
+    <color name="cB1">#397efd</color>
+    <color name="cB2">#546695</color>
+    <color name="cG1">#222222</color>
+    <color name="cG2">#777777</color>
+    <color name="cG3">#aaaaaa</color>
+    <color name="cG4">#cccccc</color>
+    <color name="cG5">#ebebeb</color>
+    <color name="cG6">#f7f7f7</color>
+    <color name="cR1">#fd745d</color>
+    <color name="cY1">#fdae31</color>
+    <color name="cg1">#44be65</color>
+    <color name="C_ebebeb">#ebebeb</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="toast_background">#70000000</color>
+    <color name="divider_color">@color/cG5</color>
+</resources>

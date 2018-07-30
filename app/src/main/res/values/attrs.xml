@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyActionBar">
+        <attr name="actionbar_title" format="reference" />
+        <attr name="actionbar_left_iv" format="reference" />
+        <attr name="actionbar_left_tv" format="reference" />
+        <attr name="actionbar_right_tv" format="reference" />
+        <attr name="actionbar_right_iv" format="reference" />
+    </declare-styleable>
+</resources>
