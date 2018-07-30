@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Yan2018.iml" filepath="$PROJECT_DIR$/Yan2018.iml" />
+      <module fileurl="file://D:\AndroidProject\Yan2018\Yan2018.iml" filepath="D:\AndroidProject\Yan2018\Yan2018.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\AndroidProject\Yan2018\app\app.iml" filepath="D:\AndroidProject\Yan2018\app\app.iml" />
     </modules>
   </component>
 </project>
